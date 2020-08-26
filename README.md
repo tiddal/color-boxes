@@ -4,7 +4,7 @@
 <img src=".github/assets/banner.png" />
 
 <!-- omit in toc -->
-## Project Description
+## Click the boxes to change their color
 
 <!-- omit in toc -->
 ### Table of Contents
@@ -18,23 +18,26 @@
 
 ## 📃 About
 
-Tell me more about your project, why are you developing it? What problem does it solve?
+This project is part of a series of projects developed in Colt Steele's course - The Modern React Bootcamp. This is my iteration and it differs in the technologies I used and the styles I made.
+
+Click the boxes to randomly change their colors from a list with all the css named colors.
 
 ## 🛠️ Requirements
 
-What do I need to install and run this app?
-
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en/)
-- ...
+- [Yarn](https://yarnpkg.com/)
 
 ## ⚙️ Install
 
-How do I install it?
+To install this project you just have to run the following commands in your terminal:
+
+1. `git clone https://github.com/tiddal/color-boxes.git`
+2. `yarn`
 
 ## ▶️ Run
 
-How do I run it?
+Run the command `yarn start` and have fun 😀
 
 ## 🚀 Tools and Technologies
 
@@ -50,8 +53,7 @@ What tools and technologies are you using?
 
 ## ⚖️ License
 
-Don't forget to protect your work with a License. [Learn more](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
-
+This project is licensed under the MIT license. See [LICENSE](LICENSE) to learn more.
 ___
 
-Thank you, made with 💗 by [Synxty](https://github.com/synxty).
+Thank you, made with 💗 by [tiddal](https://github.com/tiddal).
