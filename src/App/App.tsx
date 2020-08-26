@@ -1,11 +1,12 @@
 import React from 'react';
 import GlobalStyles from '../styles';
+import ColorBoxes from '../pages/ColorBoxes';
 
 function App(): JSX.Element {
   return (
     <>
       <GlobalStyles />
-      <h1>Ready to Go</h1>
+      <ColorBoxes />
     </>
   );
 }
