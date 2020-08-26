@@ -41,8 +41,6 @@ Run the command `yarn start` and have fun 😀
 
 ## 🚀 Tools and Technologies
 
-What tools and technologies are you using?
-
 - [HTML5](https://developer.mozilla.org/pt-PT/docs/Web/HTML/HTML5)
 - [CSS3](https://www.w3schools.com/css/)
 - [TypeScript](https://www.typescriptlang.org/)
